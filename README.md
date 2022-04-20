@@ -1,6 +1,6 @@
 # ERC20 Token Hardhat Project
 
-## Solidity ERC20 Token smart contract with Minter and Burner Roles 
+## Solidity ERC20 smart contract with Minter and Burner Roles 
 ### 100% solidity coverage
 ### Successfully verified contract GrokToken on Etherscan
 https://rinkeby.etherscan.io/address/0xa783EFC9c98413603c343CD41eA947779462A2c3#code
